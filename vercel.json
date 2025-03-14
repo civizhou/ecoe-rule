@@ -1,0 +1,9 @@
+vercel.json
+{
+  "routes": [
+    {
+      "src": "/ecoe-store.yaml",
+      "dest": "/ecoe-store.yaml"
+    }
+  ]
+}
